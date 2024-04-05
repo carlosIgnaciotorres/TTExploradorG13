@@ -1,0 +1,14 @@
+@media screen and (min-width: 768px) {
+    p {
+    color: red;
+    font-size: medium;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    p {
+        color: blue;
+        font-size: smaller;
+    }
+}
+
